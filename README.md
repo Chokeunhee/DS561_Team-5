@@ -8,6 +8,9 @@ how to activate
 3. server -> at my-api-server run node server.js
 4. front -> at chatbot-client run npm start
 
+application_main_code
+-> contain the main src code of frontend, server, model_related code
+
 dataset_related_src
 -> contains code and data related to QA generation task
 -> Opeanai api is needed to check the code
